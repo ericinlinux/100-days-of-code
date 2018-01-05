@@ -6,7 +6,7 @@
 
 **Thoughts:** Using Jupyter notebooks for R makes life easier. Though I have to learn how to plot better graphics.
 
-**Link to work:** No link so far.
+**Link to work:** [Tutorial 1](http://www.bodowinter.com/tutorial/bw_LME_tutorial1.pdf)
 
 ### Day 2: January 3, 2018 (Mixed Linear Models in R - Tutorial 2)
 ##### 
@@ -15,15 +15,13 @@
 
 **Thoughts**: The coding is quite straight forward. I feel that a course in R is going to be helpful.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Tutorial 2](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 5, Friday (Mixed Linear Models in R - Tutorial 2)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished tutorial for mixed linear models.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Some statistical knowledge is required to interpret the results of the code. That is something that I should invest soon.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [Tutorial 2](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
