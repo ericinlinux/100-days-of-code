@@ -12,3 +12,9 @@ Started the tutorial about Mixed Linear Models in R. Using a new notebook to run
 
 ### R1D3
 Finished the tutorial about Mixed Linear Models in R. Using a new notebook to run the analysis and following the instructions from http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf. 
+
+### R1D4
+Worked in the model for sharing behavior in Python. Also tried to do linear regression model in R but got stuck with the data structures. 
+
+### R1D5
+Coding for data analysis in Python today. Functions for cleaning the data set and generating documentation for the project.

@@ -25,3 +25,22 @@
 **Thoughts** Some statistical knowledge is required to interpret the results of the code. That is something that I should invest soon.
 
 **Link(s) to work** [Tutorial 2](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
+
+
+### Day 4: January 10, Wednesday (Python Coding - Sharing Behavior)
+
+**Today's Progress**: Worked on the parameter tuning algorithm and in the plotting of the results. Also worked in R for linear models.
+
+**Thoughts** Have to double check the code later to see if everything is as expected. God many troubles using data frames in R, as I am not good on it.
+
+**Link(s) to work** [Sharing Behavior Project](toinclude.future)
+
+
+### Day 5: January 11, Thursday (Python Coding - Health Behavior)
+
+**Today's Progress**: Coding for data analysis in Python today. Functions for cleaning the data set and generating documentation for the project. 
+
+**Thoughts** Finished the cleaning part of the code. Need to create a function to fetch the files generated.
+
+**Link(s) to work** [Health Behavior Project](http://toinclude.future)
+
