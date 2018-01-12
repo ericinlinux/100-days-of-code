@@ -44,3 +44,11 @@
 
 **Link(s) to work** [Health Behavior Project](http://toinclude.future)
 
+
+### Day 6: January 12, Friday (Python Coding - Health Behavior)
+
+**Today's Progress**: Coding for data analysis in Python today. Creating selection criterias for the nodes and building the notebooks for data analysis. 
+
+**Thoughts** I took a long time to work on new code as I had to adjust the cleaning part of the code to return the data saved in the data folder. This was a requirement from Day 5. Testing notebook A for data selection.
+
+**Link(s) to work** [Health Behavior Project](http://toinclude.future)
