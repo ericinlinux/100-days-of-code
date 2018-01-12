@@ -20,4 +20,4 @@ Worked in the model for sharing behavior in Python. Also tried to do linear regr
 Coding for data analysis in Python today. Functions for cleaning the data set and generating documentation for the project.
 
 ### R1D6
-Coding for data analysis in Python today. Creating selection criterias for the nodes and building the notebooks for data analysis. 
+Coding for data analysis in Python today. Creating selection criteria for the nodes and building the notebooks for data analysis. 
