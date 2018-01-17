@@ -52,3 +52,20 @@
 **Thoughts** I took a long time to work on new code as I had to adjust the cleaning part of the code to return the data saved in the data folder. This was a requirement from Day 5. Testing notebook A for data selection.
 
 **Link(s) to work** [Health Behavior Project](http://toinclude.future)
+
+
+### Day 7: January 16, Tuesday (NetLogo/Python - Obesity Project)
+
+**Today's Progress**: Understanding some code in NetLogo and starting to create a code in Python to simulate spread of behavior in a network. 
+
+**Thoughts** It took a long time to understand the code in NetLogo, as well as to decide how to get a csv file transfered into it. So now I have to generate the agents and connections to see if it is doable.
+
+**Link(s) to work** [Obesity Project](http://toinclude.future)
+
+### Day 8: January 17, Wednesday (Python Coding - Obesity Project)
+
+**Today's Progress**: Building the tables with the necessary information to initiate the agents and the connections. Connectios is done, and agents need some more work. 
+
+**Thoughts** Reducing the amount of variables and controling the weights for each of them took a lot of concentration. I got the function to read the EI (Energy Intake). Tomorrow finish the PA function and test the network to see how is it. Also try to start the simulations.
+
+**Link(s) to work** [Obesity Project](http://toinclude.future)

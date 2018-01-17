@@ -21,3 +21,9 @@ Coding for data analysis in Python today. Functions for cleaning the data set an
 
 ### R1D6
 Coding for data analysis in Python today. Creating selection criteria for the nodes and building the notebooks for data analysis. 
+
+### R1D7
+Understanding some code in NetLogo and starting to create a code in Python to simulate spread of behavior in a network. 
+
+### R1D8
+Building the tables with the necessary information to initiate the agents and the connections. Connectios is done, and agents need some more work. 
